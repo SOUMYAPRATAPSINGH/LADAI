@@ -1,0 +1,30 @@
+*{
+margin: 0;
+padding: 3px;
+}
+body{
+    background-color: rgb(198, 16, 244);
+  
+    text-align: center;
+    
+}
+h1{
+    
+    font-size: 50px;
+    text-align: center;
+    font-family: Rowdies;
+    padding:40px 10px;  
+}
+h3{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid whitesmoke;
+    margin: 0 10px;
+    background-color: rgb(236, 250, 252);
+    border-radius: 25%;
+}
+img{
+    width: 20rem;
+    padding-top: 2em;
+    padding-bottom: 3rem;
+    
+}
